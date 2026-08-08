@@ -2,7 +2,7 @@
 
 A deep learning web application that recognizes handwritten digits (0-9) using a fully connected neural network trained on the MNIST dataset. Draw any digit on the canvas and get an instant prediction with confidence scores.
 
-🔗 **[Live Demo](https://your-app-url.streamlit.app)** ← replace with your URL
+🔗 **[Live Demo](https://digit-recognizer-kzhktvxxjwopyq68k3vosc.streamlit.app/)** ← replace with your URL
 
 ---
 
