@@ -1,5 +1,6 @@
 streamlit
 streamlit_drawable_canvas
-PIL 
+PIL
 torch
 torchvision
+matplotlib
