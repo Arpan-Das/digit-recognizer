@@ -12,23 +12,6 @@ This is the first deep learning project — moving from classical ML (scikit-lea
 
 ---
 
-## 🎯 Real World Applications
-
-This exact technology (digit/character recognition) powers:
-
-| Application | How It's Used |
-|---|---|
-| 🏦 Bank cheque processing | Read handwritten amounts automatically |
-| 📮 Postal services | Read handwritten ZIP codes on envelopes |
-| 📝 Form digitization | Convert paper forms to digital data |
-| 🏥 Medical records | Digitize handwritten doctor notes |
-| 📱 Mobile keyboards | Handwriting-to-text input |
-| 🚗 License plate recognition | Read characters from plates |
-| 📊 Tax/finance forms | Auto-read handwritten numbers |
-| 🎓 Exam grading | Auto-grade handwritten answer sheets |
-
----
-
 ## 🏗️ Model Architecture
 
 ```
@@ -188,5 +171,4 @@ pillow
 
 ## 👤 Author
 
-**Arpan** — System Engineer at TCS
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/YOUR_USERNAME)
+**Arpan** 
